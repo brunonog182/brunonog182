@@ -1,4 +1,4 @@
-Hi 👋 My name is Bruno Nogueira
+Hi 👋 My name is Bruno
 ===============================
 
 Python Self Learner
