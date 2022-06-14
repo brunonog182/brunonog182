@@ -8,7 +8,7 @@ Im Start do learn Python all by myself just for fun, and im loving the language,
 
 *   🌍  I'm based in Ribeirão Preto, Brazil
 *   ✉️  You can contact me at [bruno.bcr182@gmail.com](mailto:bruno.bcr182@gmail.com)
-*   🧠  I'm learning Python
+*   🧠  I'm learning Python and Database
 *   🤝  I'm open to collaborating on Freelancing
 *   ⚡  Database is the next step
 ### Skills
